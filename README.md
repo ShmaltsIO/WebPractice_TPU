@@ -20,16 +20,16 @@
 
 ## 📁 Структура проекта
 news-portal/
-|
+
 ├── Templates/index.html # Главная страница
-|
-├── Styles/style.css # Стили проекта
-|
-├── Scripts/script.js # JavaScript логика
-|
-├── Static/content.txt # Данные новостей (10 записей)
-|
-└── README.md # Документация
+
+├── Styles/style.css     # Стили проекта
+
+├── Scripts/script.js    # JavaScript логика
+
+├── Static/content.txt   # Данные новостей (10 записей)
+
+└── README.md            # Документация
 
 
 ## 🎯 Особенности реализации
