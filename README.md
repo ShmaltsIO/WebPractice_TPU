@@ -57,9 +57,14 @@ news-portal/
 
 1. **Клонируйте репозиторий**:
 ```bash
-git clone https://github.com/your-username/news-portal.git
+git clone https://github.com/ShmaltsIO/WebPractice_TPU.git
 ```
 
-2. **Откройте в браузере**:
+2. **Перейдите на нужную ветку**:
+```bash
+git checkout task_1
+```
+
+3. **Откройте в браузере**:
 
 Просто откройте файл index.html в любом браузере!
